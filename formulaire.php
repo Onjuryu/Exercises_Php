@@ -1,6 +1,6 @@
 <p>
     Cette page ne contient que du HTML.<br />
-    Veuillez taper votre prénom :
+    Veuillez taper votre prénom de moche :
 </p>
 
 <form action="cible.php" method="post">
